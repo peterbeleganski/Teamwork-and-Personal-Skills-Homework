@@ -1,1 +1,5 @@
+<<<<<<< .mine
 doing Merge 2
+=======
+doing Merge 1
+>>>>>>> .theirs
